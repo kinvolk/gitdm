@@ -841,6 +841,7 @@ CNCF:
 	Dan Kohn: dan!dankohn.com, dan!linuxfoundation.org
 	Zachary Corleissen: zacharysarah!users.noreply.github.com from 2017-06-01
 	lukaszgryglicki: lukaszgryglicki!o2.pl from 2017-03-15
+	Ihor Dvoretskyi: ihor!dvoretskyi.com, ihor.dvoretskyi!gmail.com, ihor!linux.com, ihor!cncf.io
 CNM Consulting:
 	Chris Love: clove!cnmconsulting.net
 CREATE-NET:
@@ -5273,7 +5274,6 @@ Mirantis:
 	Davanum Srinivas: davanum!gmail.com, dims!linux.vnet.ibm.com from 2015-01-14 until 2017-04-24
 	Dmitry Shulyak: dshulyak!mirantis.com, yashulyak!gmail.com
 	Evgeny L: eli!mirantis.com, rustyrobot!users.noreply.github.com
-	Ihor Dvoretskyi: ihor!dvoretskyi.com, ihor.dvoretskyi!gmail.com
 	Illia Khudoshyn: ikhudoshyn!mirantis.com
 	Ivan Shvedunov: ishvedunov!mirantis.com, ivan4th!gmail.com, ivan4th!users.noreply.github.com
 	Jay Pipes: jaypipes!gmail.com, jpipes!serialcoder from 2013-12-31
