@@ -1927,8 +1927,8 @@ Igor Galić: i.galic!brainsware.org
 	brainsware
 Igor Katson: igor.katson!gmail.com
 	TripTravel
-Ihor Dvoretskyi: ihor!dvoretskyi.com, ihor.dvoretskyi!gmail.com
-	Mirantis
+Ihor Dvoretskyi: ihor!dvoretskyi.com, ihor.dvoretskyi!gmail.com, ihor!linux.com, ihor!cncf.io
+	CNCF
 Illia Khudoshyn: ikhudoshyn!mirantis.com
 	Mirantis
 Ilya Dmitrichenko: errordeveloper!gmail.com
